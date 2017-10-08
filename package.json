@@ -1,0 +1,15 @@
+{
+  "name": "medias-lequipe",
+  "version": "1.0.0",
+  "description": "transform html to png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.26.2",
+    "webshot": "^0.18.0"
+  }
+}
