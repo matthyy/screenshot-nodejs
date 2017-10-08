@@ -1,7 +1,7 @@
 module.exports = {
   "apps" : [
     {
-      "name"      : 'screenshot',
+      "name"      : 'screenshot-node',
       "script"    : 'index.js',
       "watch"       : true,
       "env": {
