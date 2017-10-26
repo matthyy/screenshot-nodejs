@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea/misc.xml
+.idea/modules.xml
+.idea/screenshot-nodejs.iml
+.idea/vcs.xml
+.idea/workspace.xml
